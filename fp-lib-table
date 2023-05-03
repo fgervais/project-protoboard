@@ -1,0 +1,5 @@
+(fp_lib_table
+  (version 7)
+  (lib (name "SM04B-SRSS-TB(LF)(SN)")(type "KiCad")(uri "${KIPRJMOD}/kicad-library/SM04B-SRSS-TB(LF)(SN)")(options "")(descr ""))
+  (lib (name "Proto")(type "KiCad")(uri "${KIPRJMOD}/kicad-library/mine/Proto.pretty")(options "")(descr ""))
+)
