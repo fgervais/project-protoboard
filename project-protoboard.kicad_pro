@@ -490,5 +490,7 @@
       ""
     ]
   ],
-  "text_variables": {}
+  "text_variables": {
+    "version": "v1.0.0"
+  }
 }
