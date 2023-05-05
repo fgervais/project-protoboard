@@ -89,7 +89,7 @@
     )
   )
 
-  (property "version" "v1.0.0")
+  (property "version" "v1.0.0-3-g64319bd")
 
   (net 0 "")
   (net 1 "GND")
