@@ -89,6 +89,8 @@
     )
   )
 
+  (property "version" "v1.0.0")
+
   (net 0 "")
   (net 1 "GND")
   (net 2 "/SCA")
