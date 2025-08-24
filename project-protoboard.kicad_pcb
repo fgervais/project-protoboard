@@ -119,7 +119,7 @@
 			(outputdirectory "")
 		)
 	)
-	(property "version" "v1.0.0-3-g64319bd")
+	(property "version" "v1.0.0-7-g3d6f0b0")
 	(net 0 "")
 	(net 1 "GND")
 	(net 2 "/SCA")
